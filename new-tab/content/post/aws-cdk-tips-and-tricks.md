@@ -1,6 +1,7 @@
 ---
 title: "Aws Cdk Tips and Tricks"
 date: 2022-09-02T22:45:10-07:00
+tags: ["foo", "bar"]
 draft: true
 ---
 
